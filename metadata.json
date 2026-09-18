@@ -1,0 +1,6 @@
+{
+  "name": "AuraBite - Food-Tech Gastronomy",
+  "description": "High-performance, accessible food-tech web application featuring GPU-accelerated parallax motion, atomic design, synchronized flash deals, and progressive image rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
